@@ -1,1 +1,1 @@
-New repository that is a clone of Assignment 2 Linear Regression. No edits have been made yet.
+New repository that is a clone of Assignment 2 Linear Regression with updates and better plots, visualizations, and data analysis.
